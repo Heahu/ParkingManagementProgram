@@ -1,0 +1,33 @@
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.exe.config
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.exe
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.pdb
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.AssemblyReference.cache
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.SuggestedBindingRedirects.cache
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.MainForm.resources
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.Properties.Resources.resources
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.GenerateResource.cache
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.CoreCompileInputs.cache
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.exe
+D:\Code\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.pdb
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.exe.config
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.exe
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.pdb
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.AssemblyReference.cache
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.MainForm.resources
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.Properties.Resources.resources
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.GenerateResource.cache
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.exe
+C:\Users\clip\Desktop\정하은\C# 테스트코드\과제\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.pdb
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.exe.config
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.exe
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\bin\Debug\ParkingManagementProgram.pdb
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.AssemblyReference.cache
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.MainForm.resources
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.Properties.Resources.resources
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.GenerateResource.cache
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.exe
+C:\Users\clip\Desktop\정하은\2_C# Souce\1_Study\ParkingManagementProgram\ParkingManagementProgram\obj\Debug\ParkingManagementProgram.pdb
